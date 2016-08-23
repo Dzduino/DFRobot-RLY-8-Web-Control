@@ -5,6 +5,8 @@ website      : 	www.dzduino.com
 Description  : 	Control DFR RLY-8 ViaWebPage (JSON)
 Refernces    : 	-> www.stackoverflow.com/questions/14081124/
 				-> www.php.net/manual/en/function.fsockopen.php	
+				
+IMPORTANT : A Local web server is need since we are using PHP, XAMPP or USBWebserver (Portable) are recommanded
 -->
 <html>
 <head>
